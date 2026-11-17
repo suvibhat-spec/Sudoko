@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Sudoku.ConsoleApp",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build Sudoku.ConsoleApp",
+      "program": "${workspaceFolder}/src/Sudoku.ConsoleApp/bin/Debug/net8.0/Sudoku.ConsoleApp.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/src/Sudoku.ConsoleApp",
+      "console": "integratedTerminal",
+      "stopAtEntry": true
+    }
+  ]
+}

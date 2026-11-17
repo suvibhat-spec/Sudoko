@@ -1,0 +1,4 @@
+{
+    "csharp-dev-tools.build.configuration": "Debug",
+    "csharp.debug.stopAtEntry": true
+}

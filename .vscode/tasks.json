@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build Sudoku.ConsoleApp",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/src/Sudoku.ConsoleApp/Sudoku.ConsoleApp.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}
